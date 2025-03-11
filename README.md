@@ -1,28 +1,5 @@
-Install dependencies:
-
-bash
-Copy
-composer install
-npm install
-Set up the .env file:
-
-bash
-Copy
-cp .env.example .env
-php artisan key:generate
-Run migrations:
-
-bash
-Copy
-php artisan migrate
-Start the development server:
-
-bash
-Copy
-php artisan serve
-
-
-
+too lazy to copy paste
+![image](https://github.com/user-attachments/assets/0f434834-6349-43e8-9b2f-cf925a5b72a3)
 
 
 
